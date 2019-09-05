@@ -1,0 +1,6 @@
+Start program
+Prompt user for a value in Celcius
+Multiplie that value by 9/5
+Add 32 to the number given in the previous step
+Output result
+End program

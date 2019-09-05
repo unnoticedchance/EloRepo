@@ -1,0 +1,7 @@
+Start Program 
+Prompt user for a number
+Read Number
+If number ends in "0","2","4","6","8"
+                   Display "Even"
+If Else Display "Odd"
+End Program

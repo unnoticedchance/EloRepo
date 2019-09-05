@@ -1,0 +1,7 @@
+Start program 
+Prompt user for a list  of numbers
+Define the first number as "Max"
+For each number in the list
+        replace "Max" if the number is greater than the previous
+Display the "Max" value
+End program
